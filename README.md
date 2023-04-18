@@ -1,6 +1,6 @@
 # python-chatgpt
 
-#### set environment variable OPENAI_API_KEY in .env file, to install the library
+#### set environment variable OPENAI_API_KEY in .env file, to install the package
     pip3 install python-dotenv
 
 #### set environment variable OPENAI_API_KEY before executing python-chatgpt script
